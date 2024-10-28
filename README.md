@@ -24,4 +24,4 @@ This project demonstrates basic HTML elements and how to manipulate them dynamic
 
 ## Hosting on GitHub Pages
 
-This project is hosted on GitHub Pages and can be accessed at: [URL](https://github.com/UjjwalGarai/html-basic-tutorial/) 
+This project is hosted on GitHub Pages and can be accessed at: [URL](https://ujjwalgarai.github.io/html-basic-tutorial/) 
